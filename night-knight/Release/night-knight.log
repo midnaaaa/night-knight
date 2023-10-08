@@ -1,0 +1,46 @@
+﻿  Scene.cpp
+C:\Users\POL\source\repos\night-knight\night-knight\Scene.cpp(177,35): warning C4305: 'argumento': truncamiento de 'double' a 'irrklang::ik_f32'
+C:\Users\POL\source\repos\night-knight\night-knight\Scene.cpp(191,8): warning C4101: 'tile': variable local sin referencia
+C:\Users\POL\source\repos\night-knight\night-knight\Scene.cpp(441,28): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\POL\source\repos\night-knight\night-knight\Scene.cpp(464,31): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\POL\source\repos\night-knight\night-knight\Scene.cpp(540,27): warning C4305: 'argumento': truncamiento de 'double' a 'irrklang::ik_f32'
+C:\Users\POL\source\repos\night-knight\night-knight\Scene.cpp(551,33): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\POL\source\repos\night-knight\night-knight\Scene.cpp(606,30): warning C4244: '=': conversión de 'float' a '_Ty2'; posible pérdida de datos
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\POL\source\repos\night-knight\night-knight\Scene.cpp(609,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\POL\source\repos\night-knight\night-knight\Scene.cpp(611,31): warning C4244: '=': conversión de 'float' a '_Ty2'; posible pérdida de datos
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\POL\source\repos\night-knight\night-knight\Scene.cpp(614,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\POL\source\repos\night-knight\night-knight\Scene.cpp(616,31): warning C4244: '=': conversión de 'float' a '_Ty2'; posible pérdida de datos
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\POL\source\repos\night-knight\night-knight\Scene.cpp(660,36): warning C4244: '=': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=int
+          ]
+C:\Users\POL\source\repos\night-knight\night-knight\Scene.cpp(661,40): warning C4244: '=': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=int
+          ]
+SOIL.lib(SOIL.obj) : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/OPT:ICF'
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRTD' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Generando código
+  1 of 1371 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+SOIL.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB 'vc100.pdb' con 'SOIL.lib(image_DXT.obj)' o en 'C:\Users\POL\source\repos\night-knight\Release\vc100.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+SOIL.lib(image_helper.obj) : warning LNK4099: no se encontró PDB 'vc100.pdb' con 'SOIL.lib(image_helper.obj)' o en 'C:\Users\POL\source\repos\night-knight\Release\vc100.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+SOIL.lib(SOIL.obj) : warning LNK4099: no se encontró PDB 'vc100.pdb' con 'SOIL.lib(SOIL.obj)' o en 'C:\Users\POL\source\repos\night-knight\Release\vc100.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: no se encontró PDB 'vc100.pdb' con 'SOIL.lib(stb_image_aug.obj)' o en 'C:\Users\POL\source\repos\night-knight\Release\vc100.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  night-knight.vcxproj -> C:\Users\POL\source\repos\night-knight\Release\Night Knight.exe
